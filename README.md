@@ -1,3 +1,4 @@
 # sudoku
 
-![image](https://user-images.githubusercontent.com/70644862/209520286-506a6d67-89a3-47e1-9ba4-c73a1fe840cd.png)
+![image](https://user-images.githubusercontent.com/70644862/209525353-fe2e663a-ab93-46f4-a5db-6eb3611875b7.png)
+
